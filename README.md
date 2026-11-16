@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SimonLafrikh
 - 👀 I’m interested in Cloud, Infra, Linux
-- 🌱 I’m currently learning AWS
 
 <!---
 SimonLafrikh/SimonLafrikh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
